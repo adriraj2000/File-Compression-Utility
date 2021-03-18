@@ -390,8 +390,8 @@ window.onload = function () {
 		}
 		let nameSplit = uploadedFile.name.split('.');
 		var extension = nameSplit[nameSplit.length - 1].toLowerCase();
-		if (extension != "txt") {
-			alert("Invalid file type (." + extension + ") \nPlease upload a valid .txt file and try again");
+		if (extension != "txt" && extension != "huff" && extension != "lzw") {
+			alert("Invalid file type (." + extension + ") \nPlease upload a valid file and try again");
 			return;
 		}
 		document.getElementById("step1").style.display = "none";
