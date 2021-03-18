@@ -18,7 +18,7 @@
 <!-- <body onload="onloadfn();"> -->
 <body>
 	<div class=container-fluid>
-		<h1 id="heading">Compress your text files using either of the compression algorithms</h1>
+		<h1 id="heading">File Compressor Utility</h1>
 		<div class="card" id="step1">
 			<h2>Upload a Text File</h2><center>
 			<i class="far fa-file-alt fa-5x"></i>
@@ -26,17 +26,25 @@
 			<input class="btn btn-outline-warning" type="file" id="uploadfile"><br>
 			<input class="btn btn-outline-success" type="button" id="submitbtn" value="Submit"></center>
 		</div>
-		<div class="card" id="step2">
-			<h2>Select Action</h2><center>
-			<i class="far fa-file-archive fa-5x"></i>
-			<br>
-			<h3>Using Huffman Algorithm</h3>
-			<button type="button" id="huffman_encode" class="btn btn-primary my-1 mb-3" >Compress</button>
-			<button type="button" id="huffman_decode" class="btn btn-primary my-1 mb-3" >De-Compress</button>
-			<br>
-			<h3>Using LZW Algorithm</h3>
-			<button type="button" id="lzw_encode" class="btn btn-primary my-1 mb-3" >Compress</button>
-			<button type="button" id="lzw_decode" class="btn btn-primary my-1 mb-3" >De-Compress</button></center>
+		<div class="container" id="step2">
+			<div class="card">
+				<h2>Select Action</h2><center>
+					<i class="far fa-file-archive fa-5x"></i>
+					<br>
+					<br>
+					<h3>Using Huffman Algorithm</h3>
+					<button type="button" id="huffman_encode" class="btn btn-primary my-3 mb-1" >Compress</button>
+					<button type="button" id="huffman_decode" class="btn btn-primary my-3 mb-1" >De-Compress</button></center>
+			</div>
+			<div class="card">
+				<h2>Select Action</h2><center>
+					<i class="far fa-file-archive fa-5x"></i>
+					<br>
+					<br>
+					<h3>Using LZW Algorithm</h3>
+					<button type="button" id="lzw_encode" class="btn btn-primary my-3 mb-1" >Compress</button>
+					<button type="button" id="lzw_decode" class="btn btn-primary my-3 mb-1" >De-Compress</button></center>
+			</div>
 		</div>
 		<div class="card" id="step3"></div>
 		<button id="startagain" class="btn btn-info btn-lg" type="button" onclick="location.reload()" >Click here to compress/decompress another file</button>
