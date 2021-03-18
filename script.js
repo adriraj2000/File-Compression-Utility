@@ -423,7 +423,7 @@ window.onload = function () {
 		fileReader.onload = function (fileLoadedEvent) {
 			let text = fileLoadedEvent.target.result;
 			let [encodedString, outputMsg] = huffmanObj.encode(text);
-			myDownloadFile(uploadedFile.name.split('.')[0] + "_compressed.txt", encodedString);
+			myDownloadFile(uploadedFile.name.split('.')[0] + ".huff", encodedString);
 			ondownloadChanges(outputMsg);
 		}
 		fileReader.readAsText(uploadedFile, "UTF-8");
@@ -445,7 +445,7 @@ window.onload = function () {
 		fileReader.onload = function (fileLoadedEvent) {
 			let text = fileLoadedEvent.target.result;
 			let [decodedString, outputMsg] = huffmanObj.decode(text);
-			myDownloadFile(uploadedFile.name.split('.')[0] + "_decompressed.txt", decodedString);
+			myDownloadFile(uploadedFile.name.split('.')[0] + ".txt", decodedString);
 			ondownloadChanges(outputMsg);
 		}
 		fileReader.readAsText(uploadedFile, "UTF-8");
@@ -478,7 +478,7 @@ window.onload = function () {
 			//let source = Buffer.from(text);
 			let encodedString = lzwObj.encode(text);
 			let outputMsg = "Compression complete and file sent for download. " + '\n' + "Compression Ratio : " + (text.length / encodedString.length).toPrecision(6);
-			myDownloadFile(uploadedFile.name.split('.')[0] + "_compressed.txt", encodedString);
+			myDownloadFile(uploadedFile.name.split('.')[0] + ".lzw", encodedString);
 			ondownloadChanges(outputMsg);
 		}
 		fileReader.readAsText(uploadedFile, "UTF-8");
@@ -502,7 +502,7 @@ window.onload = function () {
 			//let source = Buffer.from(text);
 			let decodedString = lzwObj.decode(text);
 			let outputMsg = "Decompression complete and file sent for download."
-			myDownloadFile(uploadedFile.name.split('.')[0] + "_decompressed.txt", decodedString);
+			myDownloadFile(uploadedFile.name.split('.')[0] + ".txt", decodedString);
 			ondownloadChanges(outputMsg);
 		}
 		fileReader.readAsText(uploadedFile, "UTF-8");
