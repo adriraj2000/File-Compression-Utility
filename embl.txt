@@ -1,0 +1,1445 @@
+
+ID   M59149; SV 1; linear; rRNA; STD; PRO; 1489 BP.
+XX
+AC   M59149;
+XX
+DT   28-JAN-1992 (Rel. 30, Created)
+DT   04-MAR-2000 (Rel. 63, Last updated, Version 3)
+XX
+DE   Erwinia carotovora 16S ribosomal RNA.
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Pectobacterium carotovorum
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Pectobacterium.
+XX
+RN   [1]
+RP   1-1489
+RA   Woese C.R.;
+RT   "Phylogeny of some gamma purple bacteria based upon 16S rRNA";
+RL   Unpublished.
+XX
+DR   RFAM; RF00177; SSU_rRNA_5.
+DR   SILVA-SSU; M59149.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1489
+FT                   /organism="Pectobacterium carotovorum"
+FT                   /mol_type="rRNA"
+FT                   /tissue_lib="ATCC 15713"
+FT                   /db_xref="taxon:554"
+FT   rRNA            1..1489
+FT                   /gene="16S rRNA"
+FT                   /product="16S ribosomal RNA"
+XX
+SQ   Sequence 1489 BP; 378 A; 326 C; 464 G; 303 T; 18 other;
+     naattgaaga gtttgatcat ggctcagatt gaacgctggc ggcaggccta acacatgcaa        60
+     gtcgagcggt agcacagagg agcttgctnc ttgggtgacg agcggcggac gggtgagtaa       120
+     tgtctgggna actgcctgat ggagggggat aactactgga aacggtagct aataccgcat       180
+     aacctcgcaa gagcaaagag gggganctta gggcctctcg cnatnngatg tgcccagatg       240
+     ggattagcta gtaggtgagg taatggctca cctaggcgac gatccctagc tggtctgaga       300
+     ggatgaccag ccacactgga actgagacac ggtccagact cctacgggag gcagcagtgg       360
+     ggaatattgc acaatgggcg caagcctgat gcagccatgc ngcgtgtgtg aagaaggcct       420
+     tcgggttgta aagcactttc agcgaggagg aaggcggtaa ggttaataac cttatcgatt       480
+     gacgttactc gcagaagaag caccggctaa ctccgtgcca gcagccncgg taatacggag       540
+     ggtgcaagcg ttaatcggaa tgactgggcg taaagcgcac gcaggcggtc tgttaagttg       600
+     gatgtgaaat ccccgggctt aacctgggaa ctgcattcaa aactgacagg ctagagtctt       660
+     gtagaggggn gtagaattcc aggtgtagcg gtgaaatgcg tagagatctg gaggaatacc       720
+     ngtggcgaag gcggccccct ggacaaagac tgacgctcag gtgcnnaagc gtggggagca       780
+     aacaggatta gataccctgg tagtccacgc tgtaaacgat gtcgatttgg aggttgtgcc       840
+     cttgaggcgt ggcttccgga gctaacgcgt taaatcgacc gcctggggag tacggccgca       900
+     aggttaaaac tcaaatgaat tgacgggggc ccgcacaagc ggtggagcat gtggtttaat       960
+     tcgatgcaac gcgaagaacc ttacctactc ttgacatcca cagaatttgg tagagatacc      1020
+     ttagtgcctt cgggaactgt gagacaggtg ctgcatggct gtcgtcagct cgtgttgtga      1080
+     aatgttgggt taagtcccgc aacgagcgca acccttatcc tttgttgcna gnnattcggt      1140
+     cgggaactca aaggagactg ccggtgataa accggaggaa ggtggggatg acgtcaagtc      1200
+     atcatggccn ttacgagtag ggctacacac gtgctacaat ggcgtataca aagagaagcg      1260
+     acctcgcgag agcaagcgga cctcataaag tacgtcgtag tccggattgg agtctgcaac      1320
+     tcgactccat gaagtcggaa tcgctagtaa tcgtagatca gaatgctacg gtgaatacgt      1380
+     tcccgggcct tgtacacacc gcccgtcaca ccatgggagt gggttgcaaa agaagtaggt      1440
+     agcttaacct tcgggagggc gcttaccact ttgtgattca ngaccgggg                  1489
+//
+ID   X83265; SV 1; linear; genomic DNA; STD; PRO; 1502 BP.
+XX
+AC   X83265;
+XX
+DT   19-FEB-1996 (Rel. 46, Created)
+DT   17-JUN-1998 (Rel. 56, Last updated, Version 5)
+XX
+DE   E.amylovora 16S rRNA gene
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Erwinia amylovora
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Erwinia.
+XX
+RN   [1]
+RX   PUBMED; 7618876.
+RA   Bereswill S., Bugert P., Bruchmueller I., Geider K.;
+RT   "Identification of Erwinia amylovora by polymerase chain reaction assays
+RT   with genomic DNA of the fire blight pathogen";
+RL   Appl. Environ. Microbiol. 61(7):2636-2642(1995).
+XX
+RN   [2]
+RC   revised by [3]
+RA   Geider K.K.;
+RT   ;
+RL   Submitted (06-DEC-1994) to the EMBL/GenBank/DDBJ databases.
+RL   K.K. Geider, Max Planck Institut fuer Med. Forschung, Schriesheimer Str.
+RL   101, 68526 Ladenburg, FRG
+XX
+RN   [3]
+RP   1-1502
+RA   Geider K.K.;
+RT   ;
+RL   Submitted (08-JUN-1998) to the EMBL/GenBank/DDBJ databases.
+RL   K.K. Geider, Max-Planck-Institut fuer Zellbiologie, Rosenhof, 68526
+RL   Ladenburg, Germany
+XX
+DR   SILVA-SSU; X83265.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1502
+FT                   /organism="Erwinia amylovora"
+FT                   /strain="Ea7/74"
+FT                   /strain="Ea1/79"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:552"
+FT   rRNA            1..1502
+FT                   /gene="16S rRNA"
+FT                   /product="16S ribosommal RNA"
+XX
+SQ   Sequence 1502 BP; 376 A; 349 C; 482 G; 295 T; 0 other;
+     agagtttgat catggctcag attgaacgct ggcggcaggc ctaacacatg caagtcgaac        60
+     ggtagcacag agagcttgct cttgggtgac gagtggcgga cgggtgagta atgtctggga       120
+     aactgcccga tggaggggga taactactgg aaacggtagc taataccgca taacgtctac       180
+     ggaccaaagt gggggacctt cgggcctcac accatcggat gtgcccagat gggattagct       240
+     agtaggtggg gtaacggctc acctaggcga cgatccctag ctggtctgag aggatgacca       300
+     gccacactgg aactgagaca cggtccagac tcctacggga ggcagcagtg gggaatattg       360
+     cacaatgggc gcaagcctga tgcagccatg ccgcgtgtat gaagaaggcc ttcgggttgt       420
+     aaagtacttt cagcggggag gaaggggaag aggttaataa ccttttccat tgacgttacc       480
+     cgcagaagaa gcaccggcta actccgtgcc agcagccgcg gtaatacgga gggtgcaagc       540
+     gttaatcgga attactgggc gtaaagcgca cgcaggcggt ctgtcaagtc ggatgtgaaa       600
+     tccccgggct taacctggga actgcattcg aaactggcag gctagagtct cgtagagggg       660
+     ggtagaattc caggtgtagc ggtgaaatgc gtagagatct ggaggaatac cggtggcgaa       720
+     ggcggccccc tggacgaaga ctgacgctca ggtgcgaaag cgtggggagc aaacaggatt       780
+     agataccctg gtagtccacg ccgtaaacga tgtcgacttg gaggctgttc ccctgaggag       840
+     tggcttccgg agctaacgcg ttaagtcgac cgcctgggga gtacggccgc aaggttaaaa       900
+     ctcaaatgaa ttgacggggg cccgcacaag cggtggagca tgtggtttaa ttcgatgcaa       960
+     cgcgaagaac cttacctggc cttgacatcc acggaattct gcagagatgc ggaagtgcct      1020
+     tcgggaaccg tgagacaggt gctgcatggc tgtcgtcagc tcgtgttgtg aaatgttggg      1080
+     ttaagtcccg caacgagcgc aacccttatc ctttgttgcc agcgattcgg tcgggaactc      1140
+     aaaggagact gccggtgata aaccggagga aggtggggat gacgtcaagt catcatggcc      1200
+     cttacggcca gggctacaca cgtgctacaa tggcgcatac aaagagaagc gacctcgcga      1260
+     gagcaagcgg acctcataaa gtgcgtcgta gtccggatcg gagtctgcaa ctcgactccg      1320
+     tgaagtcgga atcgctagta atcgtagatc agaatgctac ggtgaatacg ttcccgggcc      1380
+     ttgtacacac cgcccgtcac accatgggag tgggttgcaa aagaagtagg tagcttaact      1440
+     tcgggagggc gcttaccact ttgtgattca tgactggggt gaagtcgtaa caaggtaacc      1500
+     gt                                                                     1502
+//
+ID   Z96088; SV 1; linear; genomic DNA; STD; PRO; 1481 BP.
+XX
+AC   Z96088;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 3)
+XX
+DE   Erwinia amylovora LMG 2024 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Erwinia amylovora
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Erwinia.
+XX
+RN   [2]
+RP   1-1481
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2024.
+DR   SILVA-SSU; Z96088.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1481
+FT                   /organism="Erwinia amylovora"
+FT                   /strain="LMG 2024"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:552"
+FT   rRNA            <1..>1481
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1481 BP; 367 A; 344 C; 477 G; 287 T; 6 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtagcacag agagcttgct        60
+     cytgggtgac gagtggcgga cgggtgagta atgtctggga aactgcccga tggaggggga       120
+     taactactgg aaacggtagc taataccgca taacgtctac ggaccaaagt gggggacctt       180
+     cgggcctcac accatcggat gtgcccagat gggattagct ggtaggtggg gtaayggctc       240
+     acctaggcga cgatccctag ctggtctgag aggatgacca gccacactgg aactgagaca       300
+     cggtccagac tcctacggga ggcagcagtg gggaatattg cacaatgggc gcaagcctga       360
+     tgcagccatg ccgcgtgtat gaagaaggcc ttcgggttgt aaagtacttt cagcggggag       420
+     gaaggggaag aggttaataa cctcctccat tgacgttacc cgcagaagaa gcaccggcta       480
+     actccgtgcc agcagccgcg gtaatacgga gggtgcaagc gttaatcgga attactgggc       540
+     gtaaagcgca cgcaggcggt ctgtcaagtc ggatgtgaaa tccccgggct taacctggga       600
+     actgcattcg awactggcag gctagagtct cgtngagggg ggtagaattc caggtgtagc       660
+     ggtgaaatgc gtagagatct gggaggatac ggtggcgaag gcggccccct ggacgaagac       720
+     tgacgctcag gtgcgaaagc gtggggagca aacaggatta gataccctgg tagtccacgc       780
+     cgtaaacgat gtcgacttgg aggttgttcc cctgaggagt ggyttcygga gctaacgcgt       840
+     taagtcgacc gcctggggag tacggccgca aggttaaaac tcaaatgaat tgacgggggc       900
+     ccgcacaagc ggtggagcat gtggtttaat tcgatgcaac gcgaagaacc ttacctggcc       960
+     ttgacatcca cggaattctg cagagatgcg aatgtgcctt cgggaaccgt gagacaggtg      1020
+     ctgcatggct gtcgtcagct cgtgttgtga aatgttgggt taagtcccgc aacgagcgca      1080
+     acccttatcc tttgttgcca gcgattcggt cgggaactca aaggagactg ccggtgataa      1140
+     accggaggaa ggtggggatg acgtcaagtc atcatggccc ttacggccag ggctacacac      1200
+     gtgctacaat ggcgcataca aagagaagcg acctcgcgag agcaagcgga cctcataaag      1260
+     tgcgtcgtag tccggatcgg agtctgcaac tcgactccgt gaagtcggaa tcgctagtaa      1320
+     tcgtagatca gaatgctacg gtgaatacgt tcccgggcct tgtacacacc gcccgtcaca      1380
+     ccatgggagt gggttgcaaa agaagtaggt agcttaacct tcgggagggc gcttaccact      1440
+     ttgtgattca tgactggggt gaagtcgtaa caaggtaacc g                          1481
+//
+  
+ID   Z96089; SV 1; linear; genomic DNA; STD; PRO; 1497 BP.
+XX
+AC   Z96089;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 4)
+XX
+DE   Erwinia carotovora LMG 2404-T 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Pectobacterium carotovorum
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Pectobacterium.
+XX
+RN   [2]
+RP   1-1497
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   SILVA-SSU; Z96089.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1497
+FT                   /organism="Pectobacterium carotovorum"
+FT                   /strain="LMG 2404-T"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:554"
+FT   rRNA            <1..>1497
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1497 BP; 383 A; 337 C; 470 G; 303 T; 4 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgagc ggtagcacag aggagcttgc        60
+     tccttgggtg acgagcggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg       120
+     gataactact ggaaacggta gctaataccg cataacctcg caagagcaaa gagggggacc       180
+     ttmgggcctc tcgccatcag atgtgcccag atgggattag ctagtaggtg aggtaatggc       240
+     tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct       360
+     gatgcagcca tgccgcgtgt gtgaagaagg ccttcgggtt gtaaagcact ttcagcgagg       420
+     aggaaggcgg taaggttaat aaccttatcg attgacgtta ctcgcagaar aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaatgactgg       540
+     gcgtaaagcg cacgcaggcg gtctgttaag ttggatgtga aatccccggg cttaacctgg       600
+     gaactgcatt caaaactgac aggctagagt cttgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacaaa       720
+     ractgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgctgtaaac gatgtcgatt tggaggttgt gcccttgagg cgtggcttcc ggagctaacg       840
+     cgttaaatcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttaccta       960
+     ctcttgacat ccacagaatt tggtagagat accttagtgc cttcgggaac tgtgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccagcgattc ggtcgggaac tcaaaggaga ctgccggtga      1140
+     taaaccggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgag tagggctaca      1200
+     cacgtgctac aatggcgtat acaaagagaa gcgacctcgc gagagcaagc ggacctcata      1260
+     aagtacgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag      1320
+     taatcgtaga tcaraatgct acggtgaata cgttcccggg ccttgtacac accgcccgtc      1380
+     acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc      1440
+     actttgtgat tcatgactgg ggtgaagtcg taacaaggta accgtagggg aacctgc         1497
+//
+ID   Z96091; SV 1; linear; genomic DNA; STD; PRO; 1497 BP.
+XX
+AC   Z96091;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 3)
+XX
+DE   Erwinia carotovora LMG 2466 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Pectobacterium carotovorum
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Pectobacterium.
+XX
+RN   [2]
+RP   1-1497
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2466.
+DR   SILVA-SSU; Z96091.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1497
+FT                   /organism="Pectobacterium carotovorum"
+FT                   /strain="LMG 2466"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:554"
+FT   rRNA            <1..>1497
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1497 BP; 376 A; 342 C; 472 G; 301 T; 6 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgagc ggcagcagar artagcttgc        60
+     taytytgccg rcgagcggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg       120
+     gataactact ggaaacggta gctaataccg cataacgtct tcggaccaaa gagggggacc       180
+     ttcgggcctc ttgccatcgg atgtgcccag atgggattag ctagtaggcg gggtaatggc       240
+     ccacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct       360
+     gatgcagcca tgccgcgtgt gtgaagaagg ccttcgggtt gtaaagcact ttcagcgggg       420
+     aggaaggcar taaggctaat atccttattg attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaatgactgg       540
+     gcgtaaagcg cacgcaggcg gtctgttaag ttggatgtga aatccccggg cttaacctgg       600
+     gaactgcatt caaaactgac aggctagagt cttgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacaaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgctgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggcttcc ggagctaacg       840
+     cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttaccta       960
+     ctcttgacat ccacagaatt tggcagagat gccttagtgc cttcgggaac tgtgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccagcgattc ggtcgggaac tcaaaggaga ctgccggtga      1140
+     taaaccggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgag tagggctaca      1200
+     cacgtgctac aatggcgtat acaaagagaa gcgacctcgc gagagcaagc ggacctcata      1260
+     aagtacgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag      1320
+     taatcgtaga tcagaatgct acggtgaata cgttcccggg ccttgtacac accgcccgtc      1380
+     acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc      1440
+     actttgtgat tcatgactgg ggtgaagtcg taacaaggta accgtagggg aacctgc         1497
+//
+ID   Z96092; SV 1; linear; genomic DNA; STD; PRO; 1496 BP.
+XX
+AC   Z96092;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 4)
+XX
+DE   Erwinia cacticida LMG 2720 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Pectobacterium cacticida
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Pectobacterium.
+XX
+RN   [1]
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic Analysis of Phytopathogens Within the Enterobacteriaceae";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-1496
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+DR   CABRI; LMG 2720.
+DR   SILVA-SSU; Z96092.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1496
+FT                   /organism="Pectobacterium cacticida"
+FT                   /strain="LMG 2720"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:69221"
+FT   rRNA            <1..>1496
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1496 BP; 385 A; 330 C; 472 G; 301 T; 8 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgagc ggtaacacag aggagcttgc        60
+     tytcgggtga cgagcggcgg acgggtgagt aatgtctggg aaactgcctg atggaggggg       120
+     ataactactg gaaacggtag ctaataccgc ataatgtcgc aagaccaaag agggggacct       180
+     tagggcctct tgccatcgga tgtgcccaga tgggattagc tagtaggtgg ggtaaaggct       240
+     cacctaggcg acgatcccta gctggtctga gaggatgacc agccacactg gaactgagac       300
+     acggtccaga ctcctacggg aggcagcagt ggggaatatt gcacaatggg cgcaagcctg       360
+     atgcagccat gccgcgtgtg tgaagaaggc cttcgggttg taaagcactt tcagcgggga       420
+     ggaaggcrtg aaagcgaata cctttcatga ttgackttac ccgcagaara agcaccggct       480
+     aactccgtgc cagcagccgc ggtaatacgg agggtgcaag cgttaatcgg aatgactggg       540
+     cgtaaagcgc acgcaggcgg tttgttaagt tggatgtgaa atccccgggc ttaacctggg       600
+     aactgcattc aaaactgaca ggctagagtc ttgtagaggg gggtagaatt ccaggtgtay       660
+     cggtgaaatg cgtagagatc tggaggaata ccggtggcga aggcggcccc ctggacaaag       720
+     actgacgctc aggtgcgaaa gcgtggggag caaacaggat tagataccct ggtagtccac       780
+     gctgtaaacg atgtcractt ggaggttgtg ccctaaaagc gtggcttccg gagctaacgc       840
+     gttaagtcga ccgcctgggg agtacggccg caaggttaaa actcaaatga attgacgggg       900
+     gcccgcacaa gcggtggagc atgtggttta attcgatgca acgcgaagaa ccttactaat       960
+     tcttgacatc cacagaaggc tttagagata gagctgtgtc ttcggaaact gtgagacagg      1020
+     tgctgcatgg ctgtcgtcag ctcgtgttgt gaaatgttgg gttaagtccc gcaacgagcg      1080
+     caacccttat cctttgttgc cagcgattag gtcgggaact caaaggagac tgccggtgat      1140
+     aaaccggagg aaggtgggga tgacgtcaag tcatcatggc ccttacgagt agggctacac      1200
+     acgtgctaca atggcgtata caaagagaag cgagcctgcg agggtgagcg gacctcataa      1260
+     agtacgtcgt agtccggatt ggagtctgca actcgactcc atgaagtcgg aatcgctagt      1320
+     aatcgtarat cagaatgcta cggtgaatac gttcccgggc cttgtacaca ccgcccgtca      1380
+     caccatggga gtgggttgca aaaraagtag gtagcttaac cttcgggggg gcgcttacca      1440
+     ctttgtgatt catgactggg gtgaagtcgt aacaaggtaa ccgtagggga acctgc          1496
+//
+
+  
+ID   Z96092; SV 1; linear; genomic DNA; STD; PRO; 1496 BP.
+XX
+AC   Z96092;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 4)
+XX
+DE   Erwinia cacticida LMG 2720 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Pectobacterium cacticida
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Pectobacterium.
+XX
+RN   [1]
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic Analysis of Phytopathogens Within the Enterobacteriaceae";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-1496
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+DR   CABRI; LMG 2720.
+DR   SILVA-SSU; Z96092.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1496
+FT                   /organism="Pectobacterium cacticida"
+FT                   /strain="LMG 2720"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:69221"
+FT   rRNA            <1..>1496
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1496 BP; 385 A; 330 C; 472 G; 301 T; 8 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgagc ggtaacacag aggagcttgc        60
+     tytcgggtga cgagcggcgg acgggtgagt aatgtctggg aaactgcctg atggaggggg       120
+     ataactactg gaaacggtag ctaataccgc ataatgtcgc aagaccaaag agggggacct       180
+     tagggcctct tgccatcgga tgtgcccaga tgggattagc tagtaggtgg ggtaaaggct       240
+     cacctaggcg acgatcccta gctggtctga gaggatgacc agccacactg gaactgagac       300
+     acggtccaga ctcctacggg aggcagcagt ggggaatatt gcacaatggg cgcaagcctg       360
+     atgcagccat gccgcgtgtg tgaagaaggc cttcgggttg taaagcactt tcagcgggga       420
+     ggaaggcrtg aaagcgaata cctttcatga ttgackttac ccgcagaara agcaccggct       480
+     aactccgtgc cagcagccgc ggtaatacgg agggtgcaag cgttaatcgg aatgactggg       540
+     cgtaaagcgc acgcaggcgg tttgttaagt tggatgtgaa atccccgggc ttaacctggg       600
+     aactgcattc aaaactgaca ggctagagtc ttgtagaggg gggtagaatt ccaggtgtay       660
+     cggtgaaatg cgtagagatc tggaggaata ccggtggcga aggcggcccc ctggacaaag       720
+     actgacgctc aggtgcgaaa gcgtggggag caaacaggat tagataccct ggtagtccac       780
+     gctgtaaacg atgtcractt ggaggttgtg ccctaaaagc gtggcttccg gagctaacgc       840
+     gttaagtcga ccgcctgggg agtacggccg caaggttaaa actcaaatga attgacgggg       900
+     gcccgcacaa gcggtggagc atgtggttta attcgatgca acgcgaagaa ccttactaat       960
+     tcttgacatc cacagaaggc tttagagata gagctgtgtc ttcggaaact gtgagacagg      1020
+     tgctgcatgg ctgtcgtcag ctcgtgttgt gaaatgttgg gttaagtccc gcaacgagcg      1080
+     caacccttat cctttgttgc cagcgattag gtcgggaact caaaggagac tgccggtgat      1140
+     aaaccggagg aaggtgggga tgacgtcaag tcatcatggc ccttacgagt agggctacac      1200
+     acgtgctaca atggcgtata caaagagaag cgagcctgcg agggtgagcg gacctcataa      1260
+     agtacgtcgt agtccggatt ggagtctgca actcgactcc atgaagtcgg aatcgctagt      1320
+     aatcgtarat cagaatgcta cggtgaatac gttcccgggc cttgtacaca ccgcccgtca      1380
+     caccatggga gtgggttgca aaaraagtag gtagcttaac cttcgggggg gcgcttacca      1440
+     ctttgtgatt catgactggg gtgaagtcgt aacaaggtaa ccgtagggga acctgc          1496
+//
+ID   Z96093; SV 1; linear; genomic DNA; STD; PRO; 1497 BP.
+XX
+AC   Z96093;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 3)
+XX
+DE   Erwinia chrysanthemi LMG 2804 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Erwinia chrysanthemi
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Dickeya.
+XX
+RN   [2]
+RP   1-1497
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2804.
+DR   SILVA-SSU; Z96093.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1497
+FT                   /organism="Erwinia chrysanthemi"
+FT                   /strain="LMG 2804"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:556"
+FT   rRNA            <1..>1497
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1497 BP; 370 A; 343 C; 484 G; 295 T; 5 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcggcg gtagcacaag ggagcttgct        60
+     ccccgggtga cgagcggcgg acgggtgagt aatgtctggg aaactgcctg atggaggggg       120
+     ataactactg gaaacggtag ctaataccgc ataacgtctt cggaccaaag agggggacct       180
+     tcgggcctct tgccatcgga tgtgcccaga tgggattagc tagtaggtgg ggtaaaggct       240
+     cacctaggcg acgatcccta gctggtctga gaggatgacc agccacactg gaactgagac       300
+     acggtccaga ctcctacggg aggcagcagt ggggaatatt gcacaatggg cgcaagcctg       360
+     atgcagccat gccgcgtgtg tgaagaaggc cttcgggttg taaagcactt tcagcgggga       420
+     ggaagggrry aaggttaata cccttgtysa ttgacgttac ccgcagaaga agcaccggct       480
+     aactccgtgc cagcagccgc ggtaatacgg agggtgcaag cgttaatcgg aatgactggg       540
+     cgtaaagcgc acgcaggcgg tctgttaagt tggatgtgaa atccccgggc ttaacctggg       600
+     aactgcattc aaaactgaca ggctagagtc tcgtagaggg gggtagaatt ccaggtgtag       660
+     cggtgaaatg cgtagagatc tggaggaata ccggtggcga aggcggcccc ctggacgaag       720
+     actgacgctc aggtgcgaaa gcgtggggag caaacaggat tagataccct ggtagtccac       780
+     gctgtaaacg atgtcgattt ggaggttgtg cccttgaggc gtggcttccg gagctaacgc       840
+     gttaaatcga ccgcctgggg agtacggccg caaggttaaa actcaaatga attgacgggg       900
+     gcccgcacaa gcggtggagc atgtggttta attcgatgca acgcgaagaa ccttacctac       960
+     tcttgacatc cagagaagcc tgcagagatg cgggtgtgcc ttcgggagct ctgagacagg      1020
+     tgctgcatgg ctgtcgtcag ctcgtgttgt gaaatgttgg gttaagtccc gcaacgagcg      1080
+     caacccttat cctctgttgc cagcacgtta tggtgggaac tcaggggaga ctgccggtga      1140
+     taaaccggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgag tagggctaca      1200
+     cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggacctcata      1260
+     aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag      1320
+     taatcgtaga tcagaatgct acggtgaata cgttcccggg ccttgtacac accgcccgtc      1380
+     acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc      1440
+     actttgtgat tcatgactgg ggtgaagtcg taacaaggta accgtagggg aacctgc         1497
+//
+ID   Z96094; SV 1; linear; genomic DNA; STD; PRO; 1485 BP.
+XX
+AC   Z96094;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 5)
+XX
+DE   Erwinia cyrpipedii LMG 2657 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Pectobacterium cypripedii
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Pectobacterium.
+XX
+RN   [2]
+RP   1-1485
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2657.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1485
+FT                   /organism="Pectobacterium cypripedii"
+FT                   /strain="LMG 2657"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:55209"
+FT   rRNA            <1..>1485
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1485 BP; 357 A; 337 C; 473 G; 284 T; 34 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcggac ggtagcacag rggagcttnc        60
+     tccctgggtg acgagyggcg gacgggtgag taatryctgg gratctgcct gatggwgggg       120
+     gataactact ggaaacggta gctaataccg cataccgtct ycggrycaaa gtgggggacc       180
+     ttcgggcctc atgccatcrg atgtgcccag atgggattag ctagtaggtg gggtaaaggc       240
+     tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg ncgnaagcct       360
+     gatgcagcca tgccgcgtgt gtgaagaagg ccttcgggtt gtaaagcact ttcagcgggg       420
+     aagaagggga taaggttaat acccttgtys attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaatyactgg       540
+     gcgtaaagcg cacgcaggcg gtctgtyaag ttggatgtga aatccccggg cttaacctgg       600
+     gaactgcatt caaaactgac aggctagagt ctcgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa       720
+     gactgacgct caggtgcgaa agcgtgggga scaaacagga ttagataccc tggtagtcca       780
+     cgctgtaaac gatgtcgact tggaggttgt gcccttgagg cgtgacttcc ggagctaacg       840
+     cgttaagtcg accgcctggg gagtacggcc gcaaggttra aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg       960
+     ctcttgacat ccagagaayt cygcagagat gcgktngtgc cttcgggacc tctgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaacccttr tcctctgttg ccagcacgtc atggggggaa ytcaagggrg actgccggyg      1140
+     ataaaccgga ggaaggtggg gatgacgtca agtcaccatg gcccttacga gyagggctac      1200
+     acacgtgcta caatggcgsa tacagagaga tgcgacctcg cgagagcaag cggacctcat      1260
+     aaagygcgtc gyagtccgga ttggagtctg caactcgact ccatgaagtc ggaatcgcta      1320
+     gtaatcgtag atcagaatgg tacggtgaat wcgttcccgg gccttgtaca caccgcccgt      1380
+     cacaccatgg gagtgggttg caaamgaagt aggtagctta accytcggga gggcgcttac      1440
+     cactttgtga ttcatgactg gggtgaagtc ggaacaaggt aaccg                      1485
+//
+
+ID   AB004757; SV 2; linear; genomic DNA; STD; PRO; 1441 BP.
+XX
+AC   AB004757;
+XX
+DT   22-JUN-1997 (Rel. 52, Created)
+DT   13-DEC-2008 (Rel. 98, Last updated, Version 5)
+XX
+DE   Pantoea agglomerans gene for 16S ribosomal RNA, partial sequence.
+XX
+KW   .
+XX
+OS   Pantoea agglomerans
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Pantoea.
+XX
+RN   [1]
+RP   1-1441
+RA   Harada H., Oyaizu H., Ishikawa H.;
+RT   ;
+RL   Submitted (09-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Contact:Hosami Harada Graduate School of Science, University of Tokyo,
+RL   Department of Biological Sciences; Hongo, Bunkyo-ku, Tokyo 113, Japan,
+RL   Bunkyo-ku, Tokyo 113, Japan
+XX
+RN   [2]
+RA   Harada H., Oyaizu H., Ishikawa H.;
+RT   "A consideration about the origin of aphid intracellular symbiont in
+RT   connection with gut bacterial flora";
+RL   J. Gen. Appl. Microbiol. 42:17-26(1996).
+XX
+DR   SILVA-SSU; AB004757.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1441
+FT                   /organism="Pantoea agglomerans"
+FT                   /strain="JCM7000"
+FT                   /mol_type="genomic DNA"
+FT                   /note="synonym: Erwinia herbicola"
+FT                   /db_xref="taxon:549"
+FT   rRNA            <1..>1441
+FT                   /product="16S ribosomal RNA"
+XX
+SQ   Sequence 1441 BP; 359 A; 336 C; 462 G; 283 T; 1 other;
+     ggnaggccta acacatgcaa gtcggacggt agcacagaga gcttgctctc gggtgacgag        60
+     tggcggacgg gtgagtaatg tctggggatc tgcccgatag agggggataa ccactggaaa       120
+     cggtggctaa taccgcataa cgtcgcaaga ccaaagaggg ggaccttcgg gcctctcact       180
+     atcggatgaa cccagatggg attagctagt aggcggggta atggcccacc taggcgacga       240
+     tccctagctg gtctgagagg atgaccagcc acactggaac tgagacacgg tccagactcc       300
+     tacgggaggc agcagtgggg aatattgcac aatgggcgca agcctgatgc agccatgccg       360
+     cgtgtatgaa gaaggccttc gggttgtaaa gtactttcag cggggaggaa ggcgatgggg       420
+     ttaataaccg cgtcgattga cgttacccgc agaagaagca ccggctaact ccgtgccagc       480
+     agccgcggta atacggaggg tgcaagcgtt aatcggaatt actgggcgta aagcgcacgc       540
+     aggcggtctg ttaagtcaga tgtgaaatcc ccgggcttaa cctgggaact gcatttgaaa       600
+     ctggcaggct tgagtcttgt agaggggggt agaattccag gtgtagcggt gaaatgcgta       660
+     gagatctgga ggaataccgg tggcgaaggc ggccccctgg acaaagactg acgctcaggt       720
+     gcgaaagcgt ggggagcaaa caggattaga taccctggta gtccacgccg taaacgatgt       780
+     cgacttggag gttgttccct tgaggagtgg cttccggagc taacgcgtta agtcgaccgc       840
+     ctggggagta cggccgcaag gttaaaactc aaatgaattg acgggggccc gcacaagcgg       900
+     tggagcatgt ggtttaattc gatgcaacgc gaagaacctt acctactctt gacatccacg       960
+     gaatttggca gagatgcctt agtgccttcg ggaaccgtga gacaggtgct gcatggctgt      1020
+     cgtcagctcg tgttgtgaaa tgttgggtta agtcccgcaa cgagcgcaac ccttatcctt      1080
+     tgttgccagc gattcggtcg ggaactcaaa ggagactgcc ggtgataaac cggaggaagg      1140
+     tggggatgac gtcaagtcat catggccctt acgagtaggg ctacacacgt gctacaatgg      1200
+     cgcatacaaa gagaagcgac ctcgcgagag caagcggacc tcacaaagtg cgtcgtagtc      1260
+     cggatcggag tctgcaactc gactccgtga agtcggaatc gctagtaatc gtggatcaga      1320
+     atgccacggt gaatacgttc ccgggccttg tacacaccgc ccgtcacacc atgggagtgg      1380
+     gttgcaaaag aagtaggtag cttaaccttc gggagggcgc ttaccacttt gtgattcatg      1440
+     a                                                                      1441
+//
+ID   Y13249; SV 1; linear; genomic DNA; STD; PRO; 1239 BP.
+XX
+AC   Y13249;
+XX
+DT   17-SEP-1997 (Rel. 52, Created)
+DT   24-JAN-2002 (Rel. 70, Last updated, Version 4)
+XX
+DE   Erwinia billingiae 16S rRNA gene
+XX
+KW   16S ribosomal RNA; 16S rRNA gene.
+XX
+OS   Erwinia billingiae
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Erwinia.
+XX
+RN   [2]
+RP   1-1239
+RA   Hauben L.;
+RT   ;
+RL   Submitted (19-MAY-1997) to the EMBL/GenBank/DDBJ databases.
+RL   L. Hauben, University Ghent, Microbiology, K. Ledeganckstraat 35, 9000,
+RL   Ghent, BELGIUM
+XX
+RN   [3]
+RX   PUBMED; 10319458.
+RA   Mergaert J., Hauben L., Cnockaert M.C., Swings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterbacteriaceae";
+RL   Int. J. Syst. Bacteriol. 49:377-383(1999).
+XX
+DR   CABRI; LMG 2613.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1239
+FT                   /organism="Erwinia billingiae"
+FT                   /strain="LMG 2613"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:182337"
+FT   rRNA            1..1239
+FT                   /gene="16S rRNA"
+FT                   /product="16S ribosomal RNA"
+XX
+SQ   Sequence 1239 BP; 288 A; 269 C; 390 G; 246 T; 46 other;
+     tagagtttga tcctggctca gattgaacgc tggcggcagg cctaacacat gcaagtcgaa        60
+     cggtagcaca gagagcttgc tctcgggtga cgagtggcgg acgggtgagt aatgtctggg       120
+     aaactgcctg atggaggggg ataagtactg gaaacggtag ctaataccgc ataacgtctt       180
+     cggaccaaag tgggggacct tcgggcctca caccatcgga tgtgcccaga tgggattagc       240
+     tagtaggtgg ggtaatggct cacctaggcg acgatcccta gctggtctga gaggatgacc       300
+     agccacactg gaactgagac acggtccaga ctcctacggg aggcagcagt ggggaatatt       360
+     gcacaatggg cgcaagcctg atgcagccat gccgcgtgta tgaagaaggc cttcgggttg       420
+     taaagtactt tcagcgggga ggaaggcgat aaggttaata accttgtcga ttgacgttac       480
+     ccgcagarga agcaccggst aactccgtgc sagcasccgc ggtaatacgg agggtscaag       540
+     cgttaatsgg aattactggg cgtaragcgc acgcaggcgs tstgtcargt cagatgtgaa       600
+     atccccgggc ttaacctggg aactgcattt gaaactggca ggctagagtc ttgtagaggg       660
+     gggtagaatt ccaggtgtag cggtgaaatg cgtagagatc tggaggaata ccggtggcga       720
+     aggcggcccc ctggacaaag actgacgstc aggtgcgaaa gcgtggggag caaacaggat       780
+     tagataccct ggtagtccac gccgtaaacg atgtcgactt ggaggttgtg cccttgaggc       840
+     gtggsttccg gagctaacgc gttaagtcga ccgcctgggg agtacggccg caaggttaaa       900
+     actcaaatga attgacgggg gcccgcacaa gcggtggagc atgtggttta attcgatgca       960
+     acgcgaagaa ccttacctgg ccttgacatc cacggaattc ggcagagatg ccttagtgcc      1020
+     ttcgggaacc gtgagacagg tgctgcatgg ctgtcgycag ctcgtgttgt gammtgttgg      1080
+     gttawrtccc gcaacgagcg caaccyttat ycttkstygn nagcgattag ygtctggaac      1140
+     tcramrgata ctgccsgyga ctaaccggag gamggtgggg atsacntmaa rtcttcmtgg      1200
+     cccttatggn casggctacn cmcgtgctrc ratkgsgyw                             1239
+//
+ID   Z96084; SV 1; linear; genomic DNA; STD; PRO; 1484 BP.
+XX
+AC   Z96084;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 4)
+XX
+DE   Erwinia mallotivora LMG 2708 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Erwinia mallotivora
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Erwinia.
+XX
+RN   [2]
+RP   1-1484
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2708.
+DR   SILVA-SSU; Z96084.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1484
+FT                   /organism="Erwinia mallotivora"
+FT                   /strain="LMG 2708"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:69222"
+FT   rRNA            <1..>1484
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1484 BP; 363 A; 342 C; 474 G; 295 T; 10 other;
+     attgaacgct ggcggcaggc ctaacacatc caagtcgaac ggtagcacag gggagcttcc        60
+     tccctgggtg acgagtggcg gacgggtgag taatgtctgg gaacctgccc gatggagggg       120
+     gatamctact ggaaacggta gctaataccs catamcgtct tcggaccaaa gtgggggacc       180
+     ttcgggcctc acaccatcgg atgtgcccag atgggattag ctggttggtg aggtaacggc       240
+     tcaccaaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcmagcct       360
+     gatgcagcca tgccgcgtgt aygaagaagg ccttcgggtt gtaaagyact ttcagcgggg       420
+     aggaaggtgg tggggttaat aaccttatca attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg       540
+     gcgtaaagcg cacgcaggcg gtctgttaag tcagatgtga aatccccggg cttaacctgg       600
+     gaactgcatt tgaaactggc aggcttgagt cttgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacaaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgccgtaaac gatgtcgatt tggaggttgt gcccttgagg cgtggyttcy ntagytaacg       840
+     cgttaaatcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgggaaga accttacctg       960
+     gccttgacat ccacggaaga cctcagagat ggggttgtgc cttcgggaac cgtgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccatcgattc ggtcgggaac tcaaaggaga ctgccggtga      1140
+     taaaccggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacggc cagggctaca      1200
+     cacgtgctac aatggcgcat acaaagagaa gcgacctcgc gagagcaagc ggatctcata      1260
+     aagtgcgtcg tagtccggat cggagtctgc aactcgactc cgtgaagtcg gaatcgctag      1320
+     taatcgtgga tcagaatgcc acggtgaata cgttcccggg ccttgtacac accgcccgtc      1380
+     acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcgggag ggcgcttacc      1440
+     actttgtgat tcatgactgg ggtgaagtcg taacaaggta accg                       1484
+//
+
+  
+ID   Z96085; SV 1; linear; genomic DNA; STD; PRO; 1496 BP.
+XX
+AC   Z96085;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 4)
+XX
+DE   Erwinia psidii LMG 7034 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Erwinia psidii
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Erwinia.
+XX
+RN   [2]
+RP   1-1496
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 7034.
+DR   SILVA-SSU; Z96085.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1496
+FT                   /organism="Erwinia psidii"
+FT                   /strain="LMG 7034"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:69224"
+FT   rRNA            <1..>1496
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1496 BP; 376 A; 342 C; 475 G; 302 T; 1 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtagcggga agaagcttgc        60
+     ttctttgccg acgagtggcg gacgggtgag taatgtctgg gaaactgccc gatggagggg       120
+     gataactact ggaaacggta gctaataccg cataacgtcg caagaccaaa gtgggggacc       180
+     ttagggcctc acaccatcgg atgtgcccag atgggattag cttgttggtg gggtaaaagc       240
+     tcaccaaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct       360
+     gatgcascca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagcgggg       420
+     aggaaggtgg tgaggttaat aaccttatca attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg       540
+     gcgtaaagcg cacgcaggcg gtctgttaag tcagatgtga aatccccggg cttaacctgg       600
+     gaactgcatt tgaaactggc aggcttgagt cttgtagagg ggggtggaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacaaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgccgtaaac gatgtcgatt tggaggttgt gcccttgagg cgtggcttcc gtagctaacg       840
+     cgttaaatcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg       960
+     gccttgacat ccacagaact tagcagagat gctttggtgc ttcgggaact gtgagacagg      1020
+     tgctgcatgg ctgtcgtcag ctcgtgttgt gaaatgttgg gttaagtccc gcaacgagcg      1080
+     caacccttat cctttgttgc catcgattcg gtcgggaact caaaggagac tgccggtgat      1140
+     aaaccggagg aaggtgggga tgacgtcaag tcatcatggc ccttacggcc agggctacac      1200
+     acgtgctaca atggcgcata caaagagaag cgacctcgcg agagcaagcg gacctcataa      1260
+     agtgcgtcgt agtccggatc ggagtctgca actcgactcc gtgaagtcgg aatcgctagt      1320
+     aatcgtggat cagaatgcca cggtgaatac gttcccgggc cttgtacaca ccgcccgtca      1380
+     caccatggga gtgggttgca aaagaagtag gtagcttaac cttcgggagg gcgcttacca      1440
+     ctttgtgatt catgactggg gtgaagtcgt aacaaggtaa ccgtagggga acctgc          1496
+//
+ID   Z96086; SV 1; linear; genomic DNA; STD; PRO; 1496 BP.
+XX
+AC   Z96086;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 3)
+XX
+DE   Erwinia persicinus LMG 11254 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Erwinia persicina
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Erwinia.
+XX
+RN   [2]
+RP   1-1496
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   RFAM; RF00177; SSU_rRNA_5.
+DR   SILVA-SSU; Z96086.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1496
+FT                   /organism="Erwinia persicina"
+FT                   /strain="LMG 11254"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:55211"
+FT   rRNA            <1..>1496
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1496 BP; 374 A; 349 C; 478 G; 293 T; 2 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtagcacag agagcttgct        60
+     ctcgggtgac gagtggcgga cgggtgagta atgtctggga aactgcccga tggaggggga       120
+     taactactgg aaacggtagc taataccgca taacgtcttc ggaccaaagt gggggacctt       180
+     cgggcctcac accatcggat gtgcccagat gggattagct agtaggtggg gtaacggctc       240
+     acctaggcga cgatccctag ctggtctgag aggatgacca gccacactgg aactgagaca       300
+     cggtccagac tcctacggga ggcagcagtg gggaatattg cacaatgggc gcaagcctga       360
+     tgcagccatg ccgcgtgtat gaagaaggcc ttcgggttgt aaagtacttt cagtggggag       420
+     gaaggcgatg aagttaataa cttcgtcgat tgackttacc cgcagaagaa gcaccggcta       480
+     actccgtgcc agcagccgcg gtaatacgga gggtgcaagc gttaatcgga attactgggc       540
+     gtaaagcgca cgcaggcggt ctgtcaagtc ggatgtgaaa tccccgggct caacctggga       600
+     actgcattcg aaactggcar gctagagtct tgtagagggg ggtagaattc caggtgtagc       660
+     ggtgaaatgc gtagagatct ggaggaatac cggtggcgaa ggcggccccc tggacaaaga       720
+     ctgacgctca ggtgcgaaag cgtggggagc aaacaggatt agataccctg gtagtccacg       780
+     ccgtaaacga tgtcgacttg gaggttgtgc ccttgaggcg tggcttccgg agctaacgcg       840
+     ttaagtcgac cgcctgggga gtacggccgc aaggttaaaa ctcaaatgaa ttgacggggg       900
+     cccgcacaag cggtggagca tgtggtttaa ttcgatgcaa cgcgaagaac cttacctggc       960
+     cttgacatcc acggaattcg gcagagatgc cttagtgcct tcgggaaccg tgagacaggt      1020
+     gctgcatggc tgtcgtcagc tcgtgttgtg aaatgttggg ttaagtcccg caacgagcgc      1080
+     aacccttatc ctttgttgcc agcacgtaat ggtgggaact caaaggagac tgccggtgat      1140
+     aaaccggagg aaggtgggga tgacgtcaag tcatcatggc ccttacggcc agggctacac      1200
+     acgtgctaca atggcgcata caaagagaag cgacctcgcg agagcaagcg gacctcataa      1260
+     agtgcgtcgt agtccggatc ggagtctgca actcgactcc gtgaagtcgg aatcgctagt      1320
+     aatcgtagat cagaatgcta cggtgaatac gttcccgggc cttgtacaca ccgcccgtca      1380
+     caccatggga gtgggttgca aaagaagtag gtagcttaac cttcgggagg gcgcttacca      1440
+     ctttgtgatt catgactggg gtgaagtcgt aacaaggtaa ccgtagggga acctgc          1496
+//
+ID   Z96095; SV 1; linear; genomic DNA; STD; PRO; 1484 BP.
+XX
+AC   Z96095;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 3)
+XX
+DE   Erwinia nigrifluens LMG 2694 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Brenneria nigrifluens
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Brenneria.
+XX
+RN   [2]
+RP   1-1484
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2694.
+DR   RFAM; RF00177; SSU_rRNA_5.
+DR   SILVA-SSU; Z96095.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1484
+FT                   /organism="Brenneria nigrifluens"
+FT                   /strain="LMG 2694"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:55210"
+FT   rRNA            <1..>1484
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1484 BP; 378 A; 335 C; 474 G; 296 T; 1 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgagc ggtagcacag rggagcttgc        60
+     tccttgggtg acgagcggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg       120
+     gataactact ggaaacggta gctaataccg cataacctcg caagagcaaa gtgggggacc       180
+     ttatggcctc acgccatcgg atgtgcccag atgggattag ctggtaggtg gggtaaaggc       240
+     tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gggaaaccct       360
+     gatgcagcca tgccgcgtgt gtgaagaagg ccttcgggtt gtaaagcact ttcagcgggg       420
+     aggaaggcaa caagcttaat aatcttgttg attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaatgactgg       540
+     gcgtaaagcg cacgcaggcg gtctgttaag ttggatgtga aatccccggg cttaacctgg       600
+     gaactgcatt caaaactgac aggctagagt ctcgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgccgtaaac gatgtcgact tggaggctgt ggtcttgaac cgtggcttcc ggagctaacg       840
+     cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttaccta       960
+     ctcttgacat cctcagaaga gactggagac agtcttgtgc cttcgggaac tgagagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccagcgattc ggtcgggaac tcaaaggaga ctgccggtga      1140
+     taaaccggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgag tagggctaca      1200
+     cacgtgctac aatggcgcat acaaagagaa gcgaacttgc gagagtaagc ggacctcata      1260
+     aagtgcgtcg tagtccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag      1320
+     taatcgtaga tcagaatgct acggtgaata cgttcccggg ccttgtacac accgcccgtc      1380
+     acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttaggggg ggcgcttacc      1440
+     actttgtgat tcatgactgg ggtgaagtcg taacaaggta accg                       1484
+//
+  
+ID   Z96087; SV 1; linear; genomic DNA; STD; PRO; 1498 BP.
+XX
+AC   Z96087;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 3)
+XX
+DE   Erwinia rhapontici LMG 2688 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Erwinia rhapontici
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Erwinia.
+XX
+RN   [2]
+RP   1-1498
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2688.
+DR   RFAM; RF00177; SSU_rRNA_5.
+DR   SILVA-SSU; Z96087.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1498
+FT                   /organism="Erwinia rhapontici"
+FT                   /strain="LMG 2688"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:55212"
+FT   rRNA            <1..>1498
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1498 BP; 372 A; 349 C; 483 G; 292 T; 2 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgaac ggtagcacag aggagcttgc        60
+     tccttgggtg acgagtggcg gacgggtgag taatgcctgg gaaactgccc gatggagggg       120
+     gataactact ggaaacggta gctaataccg cataacgtct tcggaccaaa gtgggggacc       180
+     ttcgggcctc acaccatcgg atgtgcccag gtgggattag ctagtaggtg gggtaatggc       240
+     tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gcgcaagcct       360
+     gatgcagcca tgccgcgtgt atgaagaagg ccttcgggtt gtaaagtact ttcagtgggg       420
+     aggaaggcga tgaggttaat agcctcgycg attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaattactgg       540
+     gcgtaaagcg cacgcaggcg gtctgtcaag tcggatgtga aatccccggg ctcaacctgg       600
+     gaactgcatt cgaaactggc agactagagt cttgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacaaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgccgtaaac gatgtcgact tggaggttgt gcccttgagg cgtggyttcc ggagctaacg       840
+     cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttacctg       960
+     gccttgacat ccacggaatt cggcagagat gccttagtgc cttcgggaac cgtgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccagcacgta atggtgggaa ctcaaaggag actgccggtg      1140
+     ataaaccgga ggaaggtggg gatgacgtca agtcatcatg gcccttacgg ccagggctac      1200
+     acacgtgcta caatggcgca tacaaagaga agcgacctcg cgagagcaag cggacctcat      1260
+     aaagtgcgtc gtagtccgga tcggagtctg caactcgact ccgtgaagtc ggaatcgcta      1320
+     gtaatcgtag atcagaatgc tacggtgaat acgttcccgg gccttgtaca caccgcccgt      1380
+     cacaccatgg gagtgggttg caaaagaagt aggtagctta accttcggga gggcgcttac      1440
+     cactttgtga ttcatgactg gggtgaagtc gtaacaaggt aaccgtaggg gaacctgc        1498
+//
+ID   Z96096; SV 1; linear; genomic DNA; STD; PRO; 1497 BP.
+XX
+AC   Z96096;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 4)
+XX
+DE   Erwinia paradisiaca LMG 2542 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Dickeya paradisiaca
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Dickeya.
+XX
+RN   [2]
+RP   1-1497
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2542.
+DR   SILVA-SSU; Z96096.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1497
+FT                   /organism="Dickeya paradisiaca"
+FT                   /strain="LMG 2542"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:69223"
+FT   rRNA            <1..>1497
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1497 BP; 370 A; 346 C; 486 G; 294 T; 1 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgagc ggcagcgggg ggaagcttgc        60
+     ttccccgccg gcgagcggcg gacgggtgag taatgtctgg gaaactgcct gatggagggg       120
+     gataactact ggaaacggta gctaataccg cataacgtct tcggaccaaa gtgggggctc       180
+     ttcggacctc atgccatcgg atgtgcccag atgggattag ctagtaggcg gggtaaaggc       240
+     ccacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gggaaaccct       360
+     gatgcagcca tgccgcgtgt gtgaagaagg ccttcgggtt gtaaagcact ttcagcgggg       420
+     aggaagggga caggcttaat acgtctgttc attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaatgactgg       540
+     gcgtaaagcg cacgcaggcg gtctgttaag ttggatgtga aatccccggg cttaacctgg       600
+     gaactgcatt caaaactgac aggctagagt ctcgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgctgtaaac gatgtcgatt tggaggttgt ggtcttgaac cgtggcttcc ggagctaacg       840
+     cgttaaatcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttaccta       960
+     ctcttgacat ccagagaaga ctgcagagat gcggttgtgc cttcgggagc tctgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg grttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccagcacgtg atggtgggaa ctcaagggag actgccggtg      1140
+     ataaaccgga ggaaggtggg gatgacgtca agtcatcatg gcccttacga gtagggctac      1200
+     acacgtgcta caatggcgca tacaaagaga agcgacctcg cgagagcaag cggatctcat      1260
+     aaagtgcgtc gtagtccgga ttggagtctg caactcgact ccatgaagtc ggaatcgcta      1320
+     gtaatcgcgg atcagaatgc cgcggtgaat acgttcccgg gccttgtaca caccgcccgt      1380
+     cacaccatgg gagtgggttg caaaagaagt aggtagctta acttcgggag ggcgcttacc      1440
+     actttgtgat tcatgactgg ggtgaagtcg taacaaggta accgcagggg aacctgc         1497
+//
+ID   Z96098; SV 1; linear; genomic DNA; STD; PRO; 1484 BP.
+XX
+AC   Z96098;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 3)
+XX
+DE   Erwinia rubrifaciens LMG 2709 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Brenneria rubrifaciens
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Brenneria.
+XX
+RN   [2]
+RP   1-1484
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2709.
+DR   RFAM; RF00177; SSU_rRNA_5.
+DR   SILVA-SSU; Z96098.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1484
+FT                   /organism="Brenneria rubrifaciens"
+FT                   /strain="LMG 2709"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:55213"
+FT   rRNA            <1..>1484
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1484 BP; 368 A; 340 C; 485 G; 288 T; 3 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgagc ggcagcggga agtagcttgc        60
+     tactttgccg gcgagcggcg gacgggtgag taatgtctgg ggatctgcct gatggagggg       120
+     gataaccact ggaaacggtg gctaataccg catgacgtcg caagaccaaa gtgggggacc       180
+     ttcgggcctc acgccatcgg atgaacccag atgggattag ctagtaggcg gggtaatggc       240
+     ccacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gggaaaccct       360
+     gatgcagcca tgccgcgtgt gtgaagaagg ccttcgggtt gtaaagcact ttcagcgggg       420
+     aggaagggga aaggtttaag agactttttc attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaatgactgg       540
+     gcgtaaagcg cacgcaggcg gtctgttaag ttggatgtga aatccccggg cttaacccgg       600
+     gaactgcatt caaaactgac aggctggagt ctcgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgccgtaaac gatgtcgact tggaggctgt ggtccagaac cgtggcttcc ggagctaacg       840
+     cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttaccta       960
+     ctcttgacat ccagagaaga cttcagagat gaggttgtgc cttagggagc tctgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccagcgattc ggtcgggaac tcaaaggaga ctgccggtga      1140
+     taaaccggag gaaggtgggg atgacgtcaa gtcatcatgg cccttacgag tagggctaca      1200
+     cacgtgctac aatggcgcat acaaagagaa gcgagcctgc gagggtgagc ggacctcata      1260
+     aagtgcgtcg taggccggat tggagtctgc aactcgactc catgaagtcg gaatcgctag      1320
+     taatcgyrga tcagaatgct acggtgaatw cgttcccggg ccttgtacac accgcccgtc      1380
+     acaccatggg agtgggttgc aaaagaagta ggtagcttaa ccttcggggg ggcgcttacc      1440
+     actttgtgat tcatgactgg ggtgaagtcg taacaaggta accg                       1484
+//
+
+  
+ID   Y13250; SV 1; linear; genomic DNA; STD; PRO; 1536 BP.
+XX
+AC   Y13250;
+XX
+DT   19-SEP-1997 (Rel. 52, Created)
+DT   19-SEP-1997 (Rel. 52, Last updated, Version 2)
+XX
+DE   Erwinia tracheiphila 16S rRNA gene
+XX
+KW   16S ribosomal RNA; 16S rRNA gene.
+XX
+OS   Erwinia tracheiphila
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Erwinia.
+XX
+RN   [1]
+RA   Hauben L., Moore E.R.B., Steenackers M., Mergaert J., Swings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterbacteriaceae";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-1536
+RA   Hauben L.;
+RT   ;
+RL   Submitted (19-MAY-1997) to the EMBL/GenBank/DDBJ databases.
+RL   L. Hauben, University Ghent, Microbiology, K. Ledeganckstraat 35, 9000,
+RL   Ghent, BELGIUM
+XX
+DR   RFAM; RF00177; SSU_rRNA_5.
+DR   SILVA-SSU; Y13250.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1536
+FT                   /organism="Erwinia tracheiphila"
+FT                   /strain="LMG 2906-T"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:65700"
+FT   rRNA            1..1536
+FT                   /gene="16S rRNA"
+FT                   /product="16S ribosomal RNA"
+XX
+SQ   Sequence 1536 BP; 374 A; 352 C; 481 G; 314 T; 15 other;
+     taagagtttg atcctggctc agattgaacg ctggcggcag gcctaacaca tgcaagtcgg        60
+     acggtagcac agaagagcgt gctctttggg tgacgagtgg cggacgggtg agtaatgtct       120
+     gggaaactgc ctgatggcgg gggataacca ctggaaacgg tggctaatac cgcataatct       180
+     cgcaagagca aagaggggga ccttatggcc tcttgccatc ggatgtgccc agatgggatt       240
+     agctggcagg tagggtaacg gcctacctgg gcgacgatcc ctagctggtc tgagaggatg       300
+     accagccaca ctggaactga gacacggtcc agactcctac gggaggcagc agtggggaat       360
+     attgcacaat gggcgcaagc ctgatgcagc catgccgcgt gtatgaagaa ggccttcggg       420
+     ttgtaaagta ctttcagcgg ggaggaaggg acgctggtta ataaccagcg tcattgatgt       480
+     tacccgcasa asaagcaccg gctaactccg tgccascasc cgcggtaata cggagggtgc       540
+     aagcgttaat cggaattact gggcgtaaag cgcacgcagg cggtctgtta agtcagatgt       600
+     gaaatccccg ggcttaacct gggaactgca tttgaaactg gcaggctgga gtcttgtaga       660
+     ggggggtgga attccaggtg tascsgtgaa atgcgtamag atctggagga ataccggtgg       720
+     cgaaggcggc cccctggaca aagactgacg ctcatgtgcg aaagcgtggg gagcaaacag       780
+     gattagatac cctggtagtc cacgctgtaa acgatgtcga tttggaggtt gtgcccttga       840
+     ggtgtggctt ccgtagctaa cgcgttaaat cgaccgcctg gggagtacgg ccgcaaggtt       900
+     aaaactcaaa tgaattgacg ggggcccgca caagcggtgg agcatgtggt ttaattsgat       960
+     gcaacgcgaa gaaccttacc tggccttgac atccacagaa cttagcacag atgctttggt      1020
+     gccttcggga gctgtgagac aggtgctgca tggctgtcgt cagctcgtgt tgtgaaatgt      1080
+     tgggttaagt cccgcaacga gcgcaaccct tatcctttgt tgccagcgat ttggtcggga      1140
+     actcaaagga gactgccggt gataaaccgg aggaaggtgg ggatgacgtc aagtcatcat      1200
+     ggcccttacg gccarggcta cacacgtgct acaatggcgc atacaaagag aagcgacctc      1260
+     gcgagagcat gcggacctca taaagtgcgt cgtagtccgg atcggagtct gcaactcgac      1320
+     tccgtgaagt cggaatcgct agtaatcgtg gatcagaatg ccacggtgaa tacgttcccg      1380
+     ggccttgtac acaccgcccg tcacaccatg ggagtgggtt gcaaaagaag tasgtasctt      1440
+     aaccttcggg agggcgctta ccactttgtg attcatsact ggggtgaagt cstaacaagg      1500
+     tmaccgtang ggaacctgcg ggtggatcac ctcctc                                1536
+//
+ID   Z96097; SV 1; linear; genomic DNA; STD; PRO; 1471 BP.
+XX
+AC   Z96097;
+XX
+DT   01-NOV-1997 (Rel. 53, Created)
+DT   06-JUN-2003 (Rel. 76, Last updated, Version 3)
+XX
+DE   Erwinia salicis LMG 2698 16S ribosomal RNA
+XX
+KW   16S ribosomal RNA.
+XX
+OS   Brenneria salicis
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Brenneria.
+XX
+RN   [2]
+RP   1-1471
+RA   Moore E.R.B.;
+RT   ;
+RL   Submitted (03-JUN-1997) to the EMBL/GenBank/DDBJ databases.
+RL   Moore E.R.B., Natl. Research Cntr. for Biotechnology, Division of
+RL   Microbiology, Mascheroder Weg 1, Braunschweig, D-38124, Germany
+XX
+RN   [3]
+RX   PUBMED; 9779605.
+RA   Hauben L., Moore E.R.B., Vauterin L., Mergaert J., Verdonck L., Sings J.;
+RT   "Phylogenetic position of phytopathogens within the Enterobacteriaceae";
+RL   Syst. Appl. Microbiol. 21(3):384-397(1998).
+XX
+DR   CABRI; LMG 2698.
+DR   SILVA-SSU; Z96097.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1471
+FT                   /organism="Brenneria salicis"
+FT                   /strain="LMG 2698"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:55214"
+FT   rRNA            <1..>1471
+FT                   /product="16S ribosomal RNA"
+FT                   /inference="non-experimental evidence, no additional
+FT                   details recorded"
+XX
+SQ   Sequence 1471 BP; 369 A; 331 C; 479 G; 292 T; 0 other;
+     attgaacgct ggcggcaggc ctaacacatg caagtcgggc ggtagcacag aggagcttgc        60
+     tccttgggtg acgagcggcg gacgggtgag taaagtctgg ggatctgcct gatggagggg       120
+     gataactact ggaaacggta gctaataccg catgacgtct tcggaccaaa gtgggggacc       180
+     ttcgggcctc acgccatgag atgaacccag atgggattag ctggtaggtg aggtaacggc       240
+     tcacctaggc gacgatccct agctggtctg agaggatgac cagccacact ggaactgaga       300
+     cacggtccag actcctacgg gaggcagcag tggggaatat tgcacaatgg gggaaaccct       360
+     gatgcagcca tgccgcgtgt gtgaagaagg ccttcgggtt gtaaagcact ttcagcgggg       420
+     aggaaggcga taaacttaat aagtttgttg attgacgtta cccgcagaag aagcaccggc       480
+     taactccgtg ccagcagccg cggtaatacg gagggtgcaa gcgttaatcg gaatgactgg       540
+     gcgtaaagcg cacgcaggcg gtgtgttaag ttggatgtga aatccccggg ctcaacccgg       600
+     gaacagcatt caaaactgac aggctagagt ctcgtagagg ggggtagaat tccaggtgta       660
+     gcggtgaaat gcgtagagat ctggaggaat accggtggcg aaggcggccc cctggacgaa       720
+     gactgacgct caggtgcgaa agcgtgggga gcaaacagga ttagataccc tggtagtcca       780
+     cgccgtaaac gatgtcgact tggaggctgt ggtcttgaac cgtggcttcc ggagctaacg       840
+     cgttaagtcg accgcctggg gagtacggcc gcaaggttaa aactcaaatg aattgacggg       900
+     ggcccgcaca agcggtggag catgtggttt aattcgatgc aacgcgaaga accttaccta       960
+     ctcttgacat ccagagaaga ctgtagagat acggttgtgc cttcgggagc tctgagacag      1020
+     gtgctgcatg gctgtcgtca gctcgtgttg tgaaatgttg ggttaagtcc cgcaacgagc      1080
+     gcaaccctta tcctttgttg ccagcacgta atggtgggaa ctcaaaggag actgccggtg      1140
+     ataaaccgga ggaaggtggg gatgacgtca agtcatcatg gcccttacga gtagggctac      1200
+     acacgtgcta caatggcgca tacaaagaga agcgagcctg cgagggtgag cggacctcat      1260
+     aaagtgcgtc gtagtccgga ttggagtctg caactcgact ccatgaagtc ggaatcgcta      1320
+     gtaatcgtag atcagaatgc tacggtgaat acgttcccgg gccttgtaca caccgcccgt      1380
+     cacaccatgg gagtgggttg caaaagaagt aggtagctta accttagggg gggcgcttac      1440
+     cactttgtga ttcatgactg gggtgaagtc g                                     1471
+//
+
+
+    
+ 
+
+    
+ 
+
+
+    
+ 
+
+    
+ 
+
+    
+ 
+
+    
+ 
+
+
+    
+ 
