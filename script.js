@@ -100,11 +100,6 @@ class MinHeap {
 
 /// coder decoder class
 class Huffman {
-	// constructor() {
-	//     this.codes = {};
-	// }   
-
-	/// dfs
 	getCodes(node, curr_code) {
 		/// is leaf node
 		if (typeof (node[1]) === "string") {
@@ -149,8 +144,8 @@ class Huffman {
 		var mp = new Map();
 		for (let i = 0; i < data.length; i++) {
 			if (mp.has(data[i])) {
-				let foo = mp.get(data[i]);
-				mp.set(data[i], foo + 1);
+				let frequency = mp.get(data[i]);
+				mp.set(data[i], frequency + 1);
 			}
 			else {
 				mp.set(data[i], 1);
@@ -177,10 +172,6 @@ class Huffman {
 			this.heap.push([value, key]);
 		}
 
-		/// alternate way
-		// mp.forEach(function (value, key) {
-		//     console.log([value, key]);
-		// })
 		while (this.heap.size() >= 2) {
 			let min_node1 = this.heap.top();
 			this.heap.pop();
@@ -285,8 +276,8 @@ class Huffman {
 			let curr_num = encoded_data.charCodeAt(i);
 			let curr_binary = "";
 			for (let j = 7; j >= 0; j--) {
-				let foo = curr_num >> j;
-				curr_binary = curr_binary + (foo & 1);
+				let frequency = curr_num >> j;
+				curr_binary = curr_binary + (frequency & 1);
 			}
 			binary_string += curr_binary;
 		}
